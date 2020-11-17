@@ -2,6 +2,10 @@ body {
     background-image: url("assets/boch_garden.jpg");    
 }
 #egg {
-    height: 20px ;
-    
+    height: 20px ;   
+}
+.eggs {
+    position: absolute;
+    top: 326px;
+    left: 1230px;
 }
